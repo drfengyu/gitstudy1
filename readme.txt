@@ -1,4 +1,4 @@
-Creating a new branch is quick & simple & easily.
+Creating a new branch is quick & simple & easy.
 
 
 
